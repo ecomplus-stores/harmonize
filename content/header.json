@@ -2,7 +2,8 @@
   "marketing_stripe": {
     "text": "Aproveite nossos combos promocionais",
     "link": "https://www.harmonizeonline.com.br/combos-promocionais",
-    "background": "#a6769c"
+    "background": "#a6769c",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
