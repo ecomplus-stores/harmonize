@@ -1,26 +1,26 @@
 {
-  "store_id": 1405,
-  "name": "harmonize",
-  "domain": "harmonize.netlify.app",
-  "short_name": "harmonize",
-  "description": "harmonize",
+  "domain": "www.harmonizeonline.com.br",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "niche-flowers"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/harmonize",
+  "logo": "/img/uploads/logo.jpg",
+  "name": "Harmonize",
+  "short_name": "Harmonize",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/harmonize",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/harmonize-3.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/harmonize-3.png",
+  "store_id": 1405,
+  "description": "O seu portal de produtos para a saúde",
+  "large_icon": "/img/uploads/logo.jpg"
 }
