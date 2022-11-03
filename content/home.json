@@ -1,6 +1,6 @@
 {
-  "meta_title": "Estética | Harmonize Online",
-  "meta_description": "Harmonize: o seu portal de produtos para Harmonização Facial.",
+  "meta_title": "",
+  "meta_description": "",
   "sections": [
     {
       "type": "banner-slider",
@@ -11,6 +11,11 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/1.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/2.jpg"
         }
       ]
     },
