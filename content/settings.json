@@ -1,7 +1,7 @@
 {
   "domain": "www.harmonizeonline.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#bc0f6b",
   "theme": {
     "bootswatch": "_",
     "custom": "niche-flowers"
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/harmonize-3.png",
   "store_id": 1405,
-  "description": "O seu portal de produtos para a saúde",
+  "description": "O seu portal de produtos para Harmonização Facial",
   "large_icon": "/img/uploads/logo.jpg"
 }
