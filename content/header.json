@@ -13,8 +13,15 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 7,
+    "featured": [
+      "/acido-hialuronico?Ácido Hialurônico",
+      "/bioestimulador-de-colageno?Bioestimuladores de Colágeno",
+      "/toxina-botulinica?Toxina botulínica",
+      "/combos-promocionais?Combos promocionais",
+      "/canulas?Cânulas",
+      "/novidades?Novidades"
+    ],
+    "random": 0,
     "full_width": true
   },
   "desktop_megamenu": false,
