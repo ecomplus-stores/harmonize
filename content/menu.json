@@ -1,8 +1,13 @@
 {
   "sort_categories": [
-    "acido-hialuronico"
+    "acido-hialuronico",
+    "bioestimulador-de-colageno",
+    "toxina-botulinica",
+    "canulas",
+    "combos-promocionais",
+    "novidades"
   ],
-  "alphabetical_order": true,
+  "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
 }
