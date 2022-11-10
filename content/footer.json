@@ -9,7 +9,7 @@
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
@@ -30,9 +30,6 @@
     },
     {
       "src": "/img/uploads/correios-pac-sedex.png"
-    },
-    {
-      "src": "/img/uploads/10002474.jpg"
     }
   ],
   "payment_methods": {
