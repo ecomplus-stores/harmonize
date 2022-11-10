@@ -33,6 +33,10 @@
     {
       "type": "product-specifications",
       "enabled": true
+    },
+    {
+      "type": "buy-together",
+      "enabled": true
     }
   ]
 }
