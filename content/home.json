@@ -45,14 +45,15 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": null,
-      "sort": "slug",
+      "page": 1,
       "title": "",
+      "shuffle": false,
       "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.harmonizeonline.com.br/bioestimulador-de-colageno",
       "limit": 12,
-      "page": 1
+      "collection_id": "607b718871f42b0eaf7684db:categories:Bioestimuladores de Colágeno:/bioestimulador-de-colageno",
+      "sort": "slug"
     },
     {
       "type": "collection-shelf",
