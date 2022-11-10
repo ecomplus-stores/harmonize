@@ -49,7 +49,7 @@
     "mastercard": true,
     "paypal": true,
     "citibank": false,
-    "mais": true,
+    "mais": false,
     "itau": false
   },
   "credits": ""
