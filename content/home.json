@@ -86,33 +86,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/1.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/2.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/3.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/4.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/5.png"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "page-title",
