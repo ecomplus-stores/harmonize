@@ -48,11 +48,19 @@
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": null,
-      "sort": "sales",
+      "sort": "slug",
       "title": "",
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6363fdb473321213f8c8750b:categories:Ácido Hialurônico:/acido-hialuronico",
+      "sort": "slug"
     },
     {
       "type": "page-title",
