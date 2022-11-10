@@ -70,7 +70,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "607b71a271f42b0eaf7684df:categories:Toxina botulínica:/toxina-botulinica",
-      "link": "https://www.harmonizeonline.com.br/toxina-botulinica"
+      "link": "https://www.harmonizeonline.com.br/toxina-botulinica",
+      "sort": "slug"
     },
     {
       "type": "collection-shelf",
@@ -78,7 +79,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6363f4fa73321213f8c862c1:categories:Combos promocionais:/combos-promocionais",
-      "link": "https://www.harmonizeonline.com.br/combos-promocionais"
+      "link": "https://www.harmonizeonline.com.br/combos-promocionais",
+      "sort": "slug"
     },
     {
       "type": "page-title",
