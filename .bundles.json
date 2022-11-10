@@ -15,10 +15,10 @@
       "checkout.e50b10ef366ce7ce9321.js.map"
     ],
     "storefront": [
-      "storefront.57baf7249dfcf8532084.css",
-      "storefront.faf86fef779eeff38c9c.js",
-      "storefront.57baf7249dfcf8532084.css.map",
-      "storefront.faf86fef779eeff38c9c.js.map"
+      "storefront.00bd5d6faf6655063643.css",
+      "storefront.97d7a3313d65c147f965.js",
+      "storefront.00bd5d6faf6655063643.css.map",
+      "storefront.97d7a3313d65c147f965.js.map"
     ],
     "vendors~app-cart": "chunk.05f41af9256f779a5bb5.js",
     "vendors~app-order": "chunk.878c16cbc8eb295039b0.js"
