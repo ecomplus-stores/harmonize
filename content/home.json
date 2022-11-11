@@ -83,6 +83,18 @@
       "sort": null
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/screenshot-2022-11-11-at-19-02-14-banner.png"
+        }
+      ]
+    },
+    {
       "type": "brands-carousel",
       "limit": 6,
       "offset": 0,
