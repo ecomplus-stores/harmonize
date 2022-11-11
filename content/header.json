@@ -24,7 +24,7 @@
     "random": 0,
     "full_width": true
   },
-  "desktop_megamenu": true,
+  "desktop_megamenu": false,
   "search_input": true,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
