@@ -84,7 +84,7 @@
     },
     {
       "type": "brands-carousel",
-      "limit": 24,
+      "limit": 5,
       "offset": 0,
       "sort": null
     },
