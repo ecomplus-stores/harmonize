@@ -1,18 +1,22 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete grátis para compras acima de R$1.000"
+    "text": "Frete grátis para compras acima de R$1.000",
+    "title": "FRETE GRÁTIS"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 10x no cartão de crédito"
+    "text": "Parcele em até 10x no cartão de crédito",
+    "title": "PARCELAMENTO"
   },
   "exchange": {
     "show": true,
-    "text": "Desconto de 5% para pagemento via PIX ou boleto"
+    "text": "Brinde especial para compras acima de R$1.500",
+    "title": "COMPRE E GANHE"
   },
   "promo": {
     "show": true,
-    "text": "Aproveite os combos promocionais"
+    "text": "Desconto de 5% para pagemento via PIX ou boleto",
+    "title": "A VISTA"
   }
 }
