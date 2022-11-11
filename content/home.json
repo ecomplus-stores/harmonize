@@ -86,7 +86,7 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
-      "sort": "name"
+      "sort": null
     },
     {
       "type": "banner-slider",
