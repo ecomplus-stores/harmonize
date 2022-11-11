@@ -1,5 +1,5 @@
 {
-  "css": ".menu__list:before {\n    content: url(https://harmonize.com.br/img/uploads/marca_dagua_1.png);\n   display: flex;\n  justify-content: center\n}",
+  "css": ".menu__list:before {\n    content: url(https://harmonize.com.br/img/uploads/marca_dagua_1.png);\n   display: flex;\n  justify-content: center\n}\n.prices__installments span {\n  font-weight: bold !important;\n  color:#970954 !important;\n}",
   "html_head": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/1d505c6920cda5c6b02a1b2c8/33a1e505ca80646603e61b799.js\");</script>",
   "html_body": ""
 }
