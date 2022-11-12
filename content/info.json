@@ -1,22 +1,22 @@
 {
   "shipping": {
     "show": true,
-    "text": "para compras acima de R$1.000",
-    "title": "FRETE GRÁTIS"
+    "text": "Frete grátis para compras acima de R$1.000",
+    "title": ""
   },
   "installments": {
     "show": true,
-    "text": "com segurança, em até 10x no cartão de crédito",
-    "title": "PARCELAMENTO"
+    "text": "Parcele com segurança, em até 10x no cartão de crédito",
+    "title": ""
   },
   "exchange": {
     "show": true,
-    "text": "para compras acima de R$1.500",
-    "title": "BRINDE ESPECIAL"
+    "text": "Brinde especial para compras acima de R$1.500",
+    "title": ""
   },
   "promo": {
     "show": true,
-    "text": "de 5% para pagementos à vista (PIX ou boleto bancário)",
-    "title": "DESCONTO IMPERDÍVEL"
+    "text": "Desconto de 5% para pagementos à vista (PIX ou boleto bancário)",
+    "title": ""
   }
 }
