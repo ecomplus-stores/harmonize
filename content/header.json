@@ -6,14 +6,7 @@
     "color": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Atendimento via whatsapp de 2ª a 6ª feira, das 8h às 18h"
-      },
-      {
-        "title": "Acesse nossas redes sociais para ficar por dentro das novidades"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
