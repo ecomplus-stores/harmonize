@@ -17,7 +17,7 @@
     "title": "Contato",
     "phone_wpp": true,
     "socials": true,
-    "email": false,
+    "email": true,
     "address": true
   },
   "stamps": [
