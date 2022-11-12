@@ -30,6 +30,11 @@
     },
     {
       "src": "/img/uploads/correios-pac-sedex.png"
+    },
+    {
+      "src": "/img/uploads/produtos-com-registro-anvisa-removebg-preview-1-.png",
+      "link": "https://consultas.anvisa.gov.br/#/genericos/",
+      "alt": "TESTE"
     }
   ],
   "payment_methods": {
