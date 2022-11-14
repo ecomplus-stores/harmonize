@@ -143,6 +143,9 @@
       ]
     },
     {
+      "type": "page-title"
+    },
+    {
       "type": "page-title",
       "title": "",
       "description": ""
