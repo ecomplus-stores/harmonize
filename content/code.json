@@ -1,5 +1,5 @@
 {
-  "css": ".product-card__prices {\n  color: var(--primary)\n}\n.product__prices {\ncolor: var(--primary)\n}\n.product-card__name {\n  font-weight: bold;\n}\n#product-description .lead {\nfont-weight: bold\n}\n.prices__discount span {\n  font-weight: bold !important;\n  color: #000 !important;\n}\n.menu__list:before {\n    content: url(template/public/img/uploads/marca_dagua_1.png);\n   display: flex;\n  justify-content: center\n}\n.breadcrumb-item {\n  font-weight: bold !important;\n  color: #000 !important;\n }",
+  "css": ".product-card__prices {\n  color: var(--primary)\n}\n.product__prices {\ncolor: var(--primary)\n}\n.product-card__name {\n  font-weight: bold;\n}\n#product-description .lead {\nfont-weight: bold\n}\n.prices__discount span {\n  font-weight: bold !important;\n  color: #000 !important;\n}\n.menu__list:before {\n    content: url(template/public/img/uploads/marca_dagua_1.png);\n   display: flex;\n  justify-content: center\n}\n.breadcrumb-item span {\n  font-weight: bold !important;\n  color: #000 !important;\n }",
   "html_head": "<script id=\"mcjs\">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,\"script\",\"https://chimpstatic.com/mcjs-connected/js/users/1d505c6920cda5c6b02a1b2c8/33a1e505ca80646603e61b799.js\");</script>",
   "html_body": ""
 }
