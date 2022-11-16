@@ -70,8 +70,8 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
+      "limit": "",
+      "page": 4,
       "collection_id": "6363fdb473321213f8c8750b:categories:Ácido Hialurônico:/acido-hialuronico",
       "sort": null,
       "link": "https://www.harmonizeonline.com.br/acido-hialuronico",
