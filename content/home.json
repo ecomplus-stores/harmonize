@@ -62,8 +62,7 @@
         {
           "start": "",
           "end": "",
-          "img": "https://youtu.be/lt1Limt_WVo",
-          "link": ""
+          "img": "/img/uploads/acido-hialuronico.webp"
         }
       ]
     },
@@ -77,6 +76,11 @@
       "link": "https://www.harmonizeonline.com.br/acido-hialuronico"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
+    },
+    {
       "page": 1,
       "title": "",
       "shuffle": false,
@@ -86,6 +90,11 @@
       "limit": 12,
       "collection_id": "607b718871f42b0eaf7684db:categories:Bioestimuladores de Colágeno:/bioestimulador-de-colageno",
       "sort": null
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     },
     {
       "type": "collection-shelf",
