@@ -80,13 +80,21 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/bioestimuladores-1.webp",
+          "link": "https://www.harmonizeonline.com.br/bioestimulador-de-colageno"
+        }
+      ]
     },
     {
       "page": 1,
       "title": "",
       "shuffle": false,
-      "headless": false,
+      "headless": true,
       "type": "collection-shelf",
       "link": "https://www.harmonizeonline.com.br/bioestimulador-de-colageno",
       "limit": 12,
