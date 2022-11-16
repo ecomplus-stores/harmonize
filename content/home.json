@@ -55,6 +55,19 @@
       "link": "https://www.harmonizeonline.com.br/black-november"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "https://youtu.be/lt1Limt_WVo",
+          "link": ""
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
