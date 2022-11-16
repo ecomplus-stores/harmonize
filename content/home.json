@@ -62,7 +62,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/acido_hialuronico.webp"
+          "img": "/img/uploads/acido_hialuronico.webp",
+          "link": "https://www.harmonizeonline.com.br/acido-hialuronico"
         }
       ]
     },
@@ -73,7 +74,8 @@
       "page": 1,
       "collection_id": "6363fdb473321213f8c8750b:categories:Ácido Hialurônico:/acido-hialuronico",
       "sort": null,
-      "link": "https://www.harmonizeonline.com.br/acido-hialuronico"
+      "link": "https://www.harmonizeonline.com.br/acido-hialuronico",
+      "headless": true
     },
     {
       "type": "banner-slider",
