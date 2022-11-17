@@ -184,7 +184,8 @@
       "limit": 4,
       "page": 2,
       "collection_id": "6363f4fa73321213f8c862c1:categories:Combos promocionais:/combos-promocionais",
-      "sort": "highest_price"
+      "sort": "highest_price",
+      "headless": true
     },
     {
       "type": "collection-shelf",
