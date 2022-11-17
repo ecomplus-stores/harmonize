@@ -39,12 +39,21 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": "",
+      "limit": 4,
       "page": 1,
       "collection_id": "6368fc6773321213f8cd6e7c:categories:Black November:/black-november",
-      "sort": "slug",
+      "sort": "highest_price",
       "title": "Black November com ofertas imperdíveis ",
       "link": "https://www.harmonizeonline.com.br/black-november"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 2,
+      "collection_id": "6368fc6773321213f8cd6e7c:categories:Black November:/black-november",
+      "sort": "highest_price",
+      "headless": true
     },
     {
       "type": "banner-slider",
@@ -168,6 +177,18 @@
       "link": "https://www.harmonizeonline.com.br/combos-promocionais",
       "sort": null,
       "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "banner-slider",
