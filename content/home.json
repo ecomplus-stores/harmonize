@@ -171,7 +171,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
+      "limit": 4,
       "page": 1,
       "collection_id": "6363f4fa73321213f8c862c1:categories:Combos promocionais:/combos-promocionais",
       "link": "https://www.harmonizeonline.com.br/combos-promocionais",
@@ -181,14 +181,19 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "limit": 4,
+      "page": 2,
+      "collection_id": "6363f4fa73321213f8c862c1:categories:Combos promocionais:/combos-promocionais",
+      "sort": "highest_price"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "limit": 4,
+      "page": 3,
+      "headless": true,
+      "collection_id": "6363f4fa73321213f8c862c1:categories:Combos promocionais:/combos-promocionais",
+      "sort": "highest_price"
     },
     {
       "type": "banner-slider",
