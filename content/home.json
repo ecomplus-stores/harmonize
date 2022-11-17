@@ -193,18 +193,28 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
         {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/7.png"
         },
         {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/8.png"
         },
         {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/9.png"
         },
         {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-1680-520-px-1680-260-px-840-260-px-1-.png"
         }
       ]
