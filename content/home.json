@@ -63,6 +63,24 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-1680-520-px-1680-260-px-1-.png"
+        }
+      ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 6,
+      "offset": 0,
+      "sort": "name"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/acido_hialuronico.webp",
           "link": "https://www.harmonizeonline.com.br/acido-hialuronico",
           "mobile_img": "/img/uploads/banner_-1680_-_520_px-_-1680_-_260_px-_-840_-_260_px-.webp"
@@ -195,24 +213,6 @@
       "headless": true,
       "collection_id": "6363f4fa73321213f8c862c1:categories:Combos promocionais:/combos-promocionais",
       "sort": "highest_price"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-1680-520-px-1680-260-px-1-.png"
-        }
-      ]
-    },
-    {
-      "type": "brands-carousel",
-      "limit": 6,
-      "offset": 0,
-      "sort": "name"
     },
     {
       "type": "banner-slider",
