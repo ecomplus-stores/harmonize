@@ -91,8 +91,11 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "limit": 4,
+      "page": 4,
+      "collection_id": "6363fdb473321213f8c8750b:categories:Ácido Hialurônico:/acido-hialuronico",
+      "sort": "highest_price",
+      "headless": true
     },
     {
       "type": "banner-slider",
