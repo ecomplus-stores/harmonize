@@ -39,7 +39,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 3,
+      "limit": 4,
       "page": 1,
       "collection_id": "6368fc6773321213f8cd6e7c:categories:Black November:/black-november",
       "sort": "highest_price",
