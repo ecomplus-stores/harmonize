@@ -22,18 +22,17 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "",
-      "link": "https://www.sslshopper.com/ssl-checker.html#hostname=www.harmonizeonline.com.br"
-    },
-    {
-      "src": "/img/uploads/correios-pac-sedex.png",
-      "link": "https://rastreamento.correios.com.br/app/index.php"
+      "src": "/img/uploads/site-seguro.png",
+      "link": "https://support.google.com/chrome/answer/95617?hl=pt-BR"
     },
     {
       "src": "/img/uploads/produtos-com-registro-anvisa-removebg-preview-1-.png",
       "link": "https://consultas.anvisa.gov.br/#/genericos/",
       "alt": ""
+    },
+    {
+      "src": "/img/uploads/correios-pac-sedex.png",
+      "link": "https://rastreamento.correios.com.br/app/index.php"
     }
   ],
   "payment_methods": {
