@@ -63,12 +63,21 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "limit": 12,
-      "page": 1,
+      "limit": 4,
+      "page": 4,
       "collection_id": "6363fdb473321213f8c8750b:categories:Ácido Hialurônico:/acido-hialuronico",
       "sort": "highest_price",
       "link": "https://www.harmonizeonline.com.br/acido-hialuronico",
       "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 4,
+      "collection_id": "6363fdb473321213f8c8750b:categories:Ácido Hialurônico:/acido-hialuronico",
+      "headless": true,
+      "sort": "highest_price"
     },
     {
       "type": "banner-slider",
