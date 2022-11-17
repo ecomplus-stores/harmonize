@@ -139,6 +139,20 @@
       "headless": true
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-1680-520-px-1680-260-px-.png",
+          "link": "https://www.harmonizeonline.com.br/combos-promocionais",
+          "mobile_img": "/img/uploads/banner-1680-520-px-1680-260-px-840-260-px-.png"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
