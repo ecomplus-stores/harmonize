@@ -22,8 +22,7 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/site-seguro.png",
-      "link": "https://support.google.com/chrome/answer/95617?hl=pt-BR"
+      "src": "/img/uploads/ssl-safe.png"
     },
     {
       "src": "/img/uploads/produtos-com-registro-anvisa-removebg-preview-1-.png",
@@ -33,6 +32,9 @@
     {
       "src": "/img/uploads/correios-pac-sedex.png",
       "link": "https://rastreamento.correios.com.br/app/index.php"
+    },
+    {
+      "src": "/img/uploads/paypal_large_large_44d26827-4573-4bd5-9ca4-cd462ce90f47.png"
     }
   ],
   "payment_methods": {
@@ -49,7 +51,10 @@
     "mastercard": true,
     "paypal": true,
     "citibank": false,
+    "hiper": true,
+    "diners": true,
     "mais": false,
+    "pix": true,
     "amex": true,
     "itau": false
   },
