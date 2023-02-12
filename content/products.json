@@ -18,13 +18,13 @@
       "enabled": true
     },
     {
+      "type": "buy-together",
+      "enabled": true
+    },
+    {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:",
       "show_loading": true
-    },
-    {
-      "type": "buy-together",
-      "enabled": true
     },
     {
       "type": "custom-html",
