@@ -111,6 +111,14 @@
       "headless": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 3,
+      "collection_id": "6368fc6773321213f8cd6e7c:categories:Março de Ofertas:/marco-de-ofertas",
+      "sort": "highest_price"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
