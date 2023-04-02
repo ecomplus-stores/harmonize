@@ -96,7 +96,7 @@
       "shuffle": false,
       "limit": 4,
       "page": 1,
-      "collection_id": "6368fc6773321213f8cd6e7c:categories:Março de Ofertas:/marco-de-ofertas",
+      "collection_id": "6368fc6773321213f8cd6e7c:categories:Outono quentinho:/outono-quentinho",
       "sort": "highest_price",
       "title": "Chegou o outono: mas na Harmonize as ofertas estão quentinhas para você!",
       "link": "https://www.harmonizeonline.com.br/outono-quentinho"
@@ -106,7 +106,7 @@
       "shuffle": false,
       "limit": 4,
       "page": 2,
-      "collection_id": "6368fc6773321213f8cd6e7c:categories:Março de Ofertas:/marco-de-ofertas",
+      "collection_id": "6368fc6773321213f8cd6e7c:categories:Outono quentinho:/outono-quentinho",
       "sort": "highest_price",
       "headless": true
     },
@@ -115,8 +115,9 @@
       "shuffle": false,
       "limit": 4,
       "page": 3,
-      "collection_id": "6368fc6773321213f8cd6e7c:categories:Março de Ofertas:/marco-de-ofertas",
-      "sort": "highest_price"
+      "collection_id": "6368fc6773321213f8cd6e7c:categories:Outono quentinho:/outono-quentinho",
+      "sort": "highest_price",
+      "headless": true
     },
     {
       "type": "banner-slider",
