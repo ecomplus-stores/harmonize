@@ -28,7 +28,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<a href=\"https://wa.me/5561986538395?text=Olá!%20Visitei%20a%20Harmonize!%20\" style=\"position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;\nz-index:1000;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>\n#product-block #product .row .col {\n  display: flex;\n  flex-direction: column\n}\n.product__name {\n  order: 1\n}\n.product__sku {\n  order: 2\n}\n.product__info.mt-3.lead {\n  order: 3\n}\n#product-actions {\n  order: 4\n}"
+      "html": "<a href=\"https://wa.me/5561986538395?text=Olá!%20Visitei%20a%20Harmonize!%20\" style=\"position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;\nz-index:1000;\" target=\"_blank\">\n<i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i>\n</a>"
     },
     {
       "type": "related-products",
