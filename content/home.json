@@ -94,7 +94,7 @@
       "shuffle": false,
       "limit": 4,
       "page": 1,
-      "collection_id": "6368fc6773321213f8cd6e7c:categories:Outono quentinho:/outono-quentinho",
+      "collection_id": "6368fc6773321213f8cd6e7c:categories:Arraiá de Ofertas:/arraia-ofertas",
       "sort": "highest_price",
       "title": "Arraiá de Ofertas para ninguém \"botar defeito\" é aqui na Harmonize, uai!!",
       "link": "https://www.harmonizeonline.com.br/arraia-ofertas"
@@ -104,16 +104,7 @@
       "shuffle": false,
       "limit": 4,
       "page": 2,
-      "collection_id": "6368fc6773321213f8cd6e7c:categories:Outono quentinho:/outono-quentinho",
-      "sort": "highest_price",
-      "headless": true
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 4,
-      "page": 3,
-      "collection_id": "6368fc6773321213f8cd6e7c:categories:Outono quentinho:/outono-quentinho",
+      "collection_id": "6368fc6773321213f8cd6e7c:categories:Arraiá de Ofertas:/arraia-ofertas",
       "sort": "highest_price",
       "headless": true
     },
