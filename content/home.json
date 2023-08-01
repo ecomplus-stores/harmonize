@@ -127,7 +127,8 @@
       "shuffle": false,
       "limit": 4,
       "page": 3,
-      "collection_id": "64c6be3a5e6069037078dd23:categories:AGOSTO BARBIE:/agosto-barbie"
+      "collection_id": "64c6be3a5e6069037078dd23:categories:AGOSTO BARBIE:/agosto-barbie",
+      "headless": true
     },
     {
       "type": "banner-slider",
