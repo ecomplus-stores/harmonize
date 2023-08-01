@@ -118,9 +118,16 @@
       "shuffle": false,
       "limit": 4,
       "page": 2,
-      "collection_id": "6368fc6773321213f8cd6e7c:categories:Arraiá de Ofertas:/arraia-ofertas",
+      "collection_id": "64c6be3a5e6069037078dd23:categories:AGOSTO BARBIE:/agosto-barbie",
       "sort": "highest_price",
       "headless": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 3,
+      "collection_id": "64c6be3a5e6069037078dd23:categories:AGOSTO BARBIE:/agosto-barbie"
     },
     {
       "type": "banner-slider",
