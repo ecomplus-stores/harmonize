@@ -50,12 +50,14 @@ export default options => {
                 name: "autoplay",
                 hint: 'Troca automática de avaliações, defina 0 para desabilitar autoplay',
                 min: 0,
+                required: false,
                 step: 1000,
                 default: 9000,
                 widget: 'number'
             },
             {
                 name: "title",
+                required: false,
                 label: "Título da estante de depoimentos",
                 widget: 'string'
             }
