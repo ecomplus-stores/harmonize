@@ -33,6 +33,10 @@
     {
       "type": "related-products",
       "title": "Produtos relacionados"
+    },
+    {
+      "type": "custom-html",
+      "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"item\"></script>"
     }
   ]
 }
