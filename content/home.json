@@ -41,17 +41,17 @@
       "shuffle": false,
       "limit": 4,
       "page": 1,
-      "collection_id": "64f5c63b2cd6b659593bfeb6:categories:PRIMAVERA DE OFERTAS:/primavera-ofertas",
+      "collection_id": "6547983c2cd6b6595997f670:categories:BLACK NOVEMBER:/black-november",
       "sort": "highest_price",
-      "title": "Setembro e outubro serão floridos, mas também recheados de descontos na Harmonize",
-      "link": "https://www.harmonizeonline.com.br/primavera-ofertas"
+      "title": "Na Harmonize, o mês de novembro todinho é BLACK! Isso sim, é Black Friday!",
+      "link": "https://www.harmonizeonline.com.br/black-november"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 4,
       "page": 2,
-      "collection_id": "64f5c63b2cd6b659593bfeb6:categories:PRIMAVERA DE OFERTAS:/primavera-ofertas",
+      "collection_id": "6547983c2cd6b6595997f670:categories:BLACK NOVEMBER:/black-november",
       "sort": "highest_price",
       "headless": true
     },
@@ -60,7 +60,7 @@
       "shuffle": false,
       "limit": 4,
       "page": 3,
-      "collection_id": "64f5c63b2cd6b659593bfeb6:categories:PRIMAVERA DE OFERTAS:/primavera-ofertas",
+      "collection_id": "6547983c2cd6b6595997f670:categories:BLACK NOVEMBER:/black-november",
       "headless": true
     },
     {
