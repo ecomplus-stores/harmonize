@@ -55,6 +55,13 @@
       "sort": "name"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": null
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
