@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.bfca99f1bcacd615cbb7e65274966a7a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.cf5de66110e70dc82f27f037ecf35bf1.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.57b029271d773d3958c56d52b4c7219c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.8a1dc1c2bc28a4d4d79dcae024204cac.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.48fec21d06dfd5bef42af5ae70b3900b.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Harmonize",
+  "short_name": "Harmonize",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "O seu portal de produtos para Harmonização Facial",
+  "background_color": "#ffffff",
+  "theme_color": "#970954"
+}
